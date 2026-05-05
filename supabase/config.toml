@@ -1,0 +1,7 @@
+project_id = "kgdzdubpfnyacxcdaybo"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.ai-tool]
+verify_jwt = false
